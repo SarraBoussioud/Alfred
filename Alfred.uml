@@ -2,26 +2,27 @@
 <xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Requirements="http://www.eclipse.org/papyrus/sysml/1.4/SysML/Requirements" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/papyrus/sysml/1.4/SysML/Requirements http://www.eclipse.org/papyrus/sysml/1.4/SysML#//requirements">
   <uml:Model xmi:id="_n1D5EOjsEei5GqA1vTSfig" name="Alfred">
     <packagedElement xmi:type="uml:Package" xmi:id="_s9EUsOjsEei5GqA1vTSfig" name="Requirements">
-      <packagedElement xmi:type="uml:Class" xmi:id="_jZQxQOjuEei5GqA1vTSfig" name="Requirement2"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_sm9P4OjuEei5GqA1vTSfig"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_xjqacOjuEei5GqA1vTSfig"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_1EutcOjuEei5GqA1vTSfig" name="Requirement5"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_BxPcUOjvEei5GqA1vTSfig">
-        <nestedClassifier xmi:type="uml:Class" xmi:id="_kTiWQOjwEei5GqA1vTSfig"/>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_HUuTAOjvEei5GqA1vTSfig" name="Requirement8"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_hFaC0OjvEei5GqA1vTSfig"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_q8A7kOjvEei5GqA1vTSfig" name="Requirement11"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_rPw-AOjvEei5GqA1vTSfig"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_Ga1oMOjwEei5GqA1vTSfig"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_YlR_YOjwEei5GqA1vTSfig"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_hx78MOjwEei5GqA1vTSfig"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_m6FhwOjwEei5GqA1vTSfig"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_qTXKsOjwEei5GqA1vTSfig"/>
-      <packagedElement xmi:type="uml:Class" xmi:id="_sv2bQOjwEei5GqA1vTSfig"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_vaOW0OjwEei5GqA1vTSfig">
-        <nestedClassifier xmi:type="uml:Class" xmi:id="_g2nDwOjtEei5GqA1vTSfig"/>
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_g2nDwOjtEei5GqA1vTSfig">
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_BxPcUOjvEei5GqA1vTSfig"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_hFaC0OjvEei5GqA1vTSfig"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_kTiWQOjwEei5GqA1vTSfig"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_hx78MOjwEei5GqA1vTSfig"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_rPw-AOjvEei5GqA1vTSfig"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_q8A7kOjvEei5GqA1vTSfig" name="Requirement11"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_xjqacOjuEei5GqA1vTSfig"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_sv2bQOjwEei5GqA1vTSfig"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_sm9P4OjuEei5GqA1vTSfig"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_Ga1oMOjwEei5GqA1vTSfig"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_1EutcOjuEei5GqA1vTSfig" name="Requirement5"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_YlR_YOjwEei5GqA1vTSfig"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_m6FhwOjwEei5GqA1vTSfig"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_HUuTAOjvEei5GqA1vTSfig" name="Requirement8"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_jZQxQOjuEei5GqA1vTSfig" name="Requirement2"/>
+          <nestedClassifier xmi:type="uml:Class" xmi:id="_qTXKsOjwEei5GqA1vTSfig"/>
+        </nestedClassifier>
       </packagedElement>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_Vf5h4BaaEemKCJ3VhbzrKg" name="" client="_vaOW0OjwEei5GqA1vTSfig" supplier="_BxPcUOjvEei5GqA1vTSfig"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_wJemUOjsEei5GqA1vTSfig" name="External Specification"/>
     <packagedElement xmi:type="uml:Package" xmi:id="_zTaLsOjsEei5GqA1vTSfig" name="Internal Specification">
@@ -182,4 +183,5 @@
   <Requirements:Requirement xmi:id="_qTbcIOjwEei5GqA1vTSfig" base_Class="_qTXKsOjwEei5GqA1vTSfig" id="13" text="Alfred doit pouvoir afficher la qualité de l'air"/>
   <Requirements:Requirement xmi:id="_sv5ekOjwEei5GqA1vTSfig" base_Class="_sv2bQOjwEei5GqA1vTSfig" id="14" text="Alfred doit pouvoir mesurer le taux de CO2 présent dans la maison"/>
   <Requirements:Requirement xmi:id="_vaTPUOjwEei5GqA1vTSfig" base_Class="_vaOW0OjwEei5GqA1vTSfig" id="15" text="Alfred doit pouvoir afficher les indicateurs en instantané"/>
+  <Requirements:Refine xmi:id="_Vf9zUBaaEemKCJ3VhbzrKg" base_DirectedRelationship="_Vf5h4BaaEemKCJ3VhbzrKg" base_Abstraction="_Vf5h4BaaEemKCJ3VhbzrKg"/>
 </xmi:XMI>
